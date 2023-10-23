@@ -1,0 +1,17 @@
+streamlit==1.23.1
+google-api-core==2.11.1
+google-api-python-client==2.89.0
+google-auth==2.20.0
+google-auth-httplib2==0.1.0
+googleapis-common-protos==1.59.1
+pymongo==4.3.3
+python-dateutil==2.8.2
+jinja2-time==0.2.0
+pandas==2.0.1
+numpy==1.24.3
+numpydoc==1.5.0
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+SQLAlchemy==2.0.16
+mysql-connector-python==8.0.33
+mysql_connector_repackaged==0.3.1
